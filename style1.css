@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.navbar{
+    height: 70px;
+}
+.navbar .navbar-brand img{
+    height: 70px;
+    width: 170px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.collapse{
+    padding-left: 150px;
+}
+.nav-item{
+    margin: 0 20px;
+}
